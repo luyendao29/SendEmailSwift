@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		812564162577AAAA0087713C /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 812564152577AAAA0087713C /* ViewController4.swift */; };
 		81BD9FE7256FA385007E30B7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BD9FE6256FA385007E30B7 /* AppDelegate.swift */; };
 		81BD9FE9256FA385007E30B7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BD9FE8256FA385007E30B7 /* SceneDelegate.swift */; };
 		81BD9FEB256FA385007E30B7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BD9FEA256FA385007E30B7 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		812564152577AAAA0087713C /* ViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = "<group>"; };
 		81BD9FE3256FA385007E30B7 /* SendEmailSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SendEmailSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		81BD9FE6256FA385007E30B7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		81BD9FE8256FA385007E30B7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				81BD9FEF256FA386007E30B7 /* Assets.xcassets */,
 				81BD9FF1256FA386007E30B7 /* LaunchScreen.storyboard */,
 				81BD9FF4256FA386007E30B7 /* Info.plist */,
+				812564152577AAAA0087713C /* ViewController4.swift */,
 			);
 			path = SendEmailSwift;
 			sourceTree = "<group>";
@@ -266,6 +269,7 @@
 				81D08CBF256FC4C700768796 /* ViewController2.swift in Sources */,
 				81BD9FE7256FA385007E30B7 /* AppDelegate.swift in Sources */,
 				81BD9FE9256FA385007E30B7 /* SceneDelegate.swift in Sources */,
+				812564162577AAAA0087713C /* ViewController4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
